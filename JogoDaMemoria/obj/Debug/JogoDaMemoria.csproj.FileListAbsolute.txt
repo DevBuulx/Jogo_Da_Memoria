@@ -1,0 +1,20 @@
+D:\Marco\Curso\CSharp WindowsForms\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe.config
+D:\Marco\Curso\CSharp WindowsForms\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe
+D:\Marco\Curso\CSharp WindowsForms\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.pdb
+D:\Marco\Curso\CSharp WindowsForms\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csprojAssemblyReference.cache
+D:\Marco\Curso\CSharp WindowsForms\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.Form1.resources
+D:\Marco\Curso\CSharp WindowsForms\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.Properties.Resources.resources
+D:\Marco\Curso\CSharp WindowsForms\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.GenerateResource.cache
+D:\Marco\Curso\CSharp WindowsForms\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.CoreCompileInputs.cache
+D:\Marco\Curso\CSharp WindowsForms\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.exe
+D:\Marco\Curso\CSharp WindowsForms\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.pdb
+C:\Users\ragra\OneDrive\Área de Trabalho\projetos\Jogo-Da-Memoria-ClashRoyale\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe.config
+C:\Users\ragra\OneDrive\Área de Trabalho\projetos\Jogo-Da-Memoria-ClashRoyale\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe
+C:\Users\ragra\OneDrive\Área de Trabalho\projetos\Jogo-Da-Memoria-ClashRoyale\JogoDaMemoria\bin\Debug\JogoDaMemoria.pdb
+C:\Users\ragra\OneDrive\Área de Trabalho\projetos\Jogo-Da-Memoria-ClashRoyale\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.AssemblyReference.cache
+C:\Users\ragra\OneDrive\Área de Trabalho\projetos\Jogo-Da-Memoria-ClashRoyale\JogoDaMemoria\obj\Debug\JogoDaMemoria.Form1.resources
+C:\Users\ragra\OneDrive\Área de Trabalho\projetos\Jogo-Da-Memoria-ClashRoyale\JogoDaMemoria\obj\Debug\JogoDaMemoria.Properties.Resources.resources
+C:\Users\ragra\OneDrive\Área de Trabalho\projetos\Jogo-Da-Memoria-ClashRoyale\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.GenerateResource.cache
+C:\Users\ragra\OneDrive\Área de Trabalho\projetos\Jogo-Da-Memoria-ClashRoyale\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\ragra\OneDrive\Área de Trabalho\projetos\Jogo-Da-Memoria-ClashRoyale\JogoDaMemoria\obj\Debug\JogoDaMemoria.exe
+C:\Users\ragra\OneDrive\Área de Trabalho\projetos\Jogo-Da-Memoria-ClashRoyale\JogoDaMemoria\obj\Debug\JogoDaMemoria.pdb
