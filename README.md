@@ -18,8 +18,8 @@ Este é um jogo da memória desenvolvido em C# utilizando Windows Forms (.NET Fr
 
 ## Recursos Adicionais
 
-- Imagens das obras de arte foram obtidas de [br.pinterest.com]().
+- Imagens das obras de arte foram obtidas de [br.pinterest.com](https://br.pinterest.com/search/pins/?rs=ac&len=2&q=clash%20royale&eq=clash&etslf=3146).
 
 ## Créditos
 
-Desenvolvido por [DevBuulx].
+Desenvolvido por [Rian Pereira](https://github.com/DevBuulx).
